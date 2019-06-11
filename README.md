@@ -1,1 +1,5 @@
-# ts_react_git_list
+# React + TypeScript + Webpack 4
+
+npm i
+
+npm start
